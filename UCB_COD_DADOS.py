@@ -988,5 +988,3 @@ if uploaded_file:
 
 else:
     st.info("💡 Por favor, carregue os arquivos Excel para iniciar o Analytics Hub.")
-
-```
